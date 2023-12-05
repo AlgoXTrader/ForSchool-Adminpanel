@@ -11,9 +11,12 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 Özellikler:
-- ürün ekleme, silme
+- ürün ekleme, silme, düzenleme
 - ürünlere fiyat bilgisi girilebilir
 - ürünlere açıklama girilebilir
 - ürünün ne zaman eklendiği görüntülenebilir
+- ürünün ne zaman güncellendiği görülebilir
+- 
+  
   
 
